@@ -3,5 +3,5 @@ wheel
 catkin_tools
 numpy
 pylint
-yapf
+yapf==0.32.0
 typing-extensions
